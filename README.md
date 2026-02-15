@@ -13,7 +13,7 @@ Matlab R2021b with YALMIP and Gurobi toolbox.
 The main program is adro_experiment.m. 
 Running it in MATLAB reproduces all the results presented in this manuscript. 
 result_plot.m gives the figures of the optimization results. 
-optimization_result.cvs contains the energy dispatch solution obtained by ADRO.
+optimization_result.cvs contains the energy dispatch solution.
 
 The original data of HOME C is presented in the home_c_data file. 
 
