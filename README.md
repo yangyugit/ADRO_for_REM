@@ -24,4 +24,4 @@ The adaptive_radius.cvs shows the adaptive radius of the ambiguity set.
 The radius_.cvs shows the radius of the ambiguity set, which is computed as the reference [23]. 
 
 
-The code will be further enhanced and extended to support community-level energy dispatch in future work.
+The code will be further completed and extended to support community-level energy dispatch in future work.
